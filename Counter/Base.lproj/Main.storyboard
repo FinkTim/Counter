@@ -93,7 +93,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="changeHistory" destination="MCd-U2-nAV" id="R1o-w3-Cbz"/>
+                        <outlet property="changeHistoryTextView" destination="MCd-U2-nAV" id="5JU-Ix-Pw5"/>
                         <outlet property="counterLabel" destination="fNY-Ae-cb8" id="Mkc-j7-3Th"/>
                         <outlet property="minusButton" destination="QoY-JP-imJ" id="3Aa-zz-xoF"/>
                         <outlet property="plusButton" destination="3r2-ZD-WLS" id="xFh-Zc-O24"/>
